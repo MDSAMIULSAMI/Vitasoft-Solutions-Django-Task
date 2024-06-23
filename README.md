@@ -6,7 +6,7 @@
 
 1. Clone the repository:
     ```bash
-    git clone <YOUR_GIT_REPOSITORY_URL>
+    git clone https://github.com/MDSAMIULSAMI/Vitasoft-Solutions-Django-Task.git
     cd teamcollab
     ```
 
